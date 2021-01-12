@@ -1,5 +1,6 @@
-+define how much time is between the send message and target time 
-+determine how many minutes are left 
-+substract 1 minute each minute 
--when asked send minutes left and the target date (need to save the target date into deadline object)
--make it so that the command will take the next sent message as info
+возможные сценарии:
+    охота на шпиона
+    поиск котика
+    помощь старушке перейти дорогу
+    вычесление хакера
+    решить загадку сфинкса 
